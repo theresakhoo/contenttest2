@@ -29,5 +29,10 @@
     "balanceAvailable": "Available: {amount}",
     "fee": "Fee",
     "finalAmountText": "You’ll get"
+  },
+  "cancel": {
+    "success": "You canceled your transfer",
+    "failureHeader": "Your transfer could not be canceled",
+    "failureBody": "We’re reviewing your transfer, and we’ll email you as soon as we have an update."
   }
 }
